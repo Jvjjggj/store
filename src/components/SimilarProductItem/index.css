@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.similarImg {
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}

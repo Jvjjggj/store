@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.product-indetails {
+  display: flex;
+}
+.product-img {
+  width: 40%;
+  border-radius: 5px;
+}
+.discription {
+  line-height: 1;
+}
+.cart-count-container {
+  display: flex;
+  align-items: center;
+}
+.product-container-details {
+  padding: 10px;
+}
+.plus {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+.unorder-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
